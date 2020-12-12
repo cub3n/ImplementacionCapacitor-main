@@ -1,0 +1,8 @@
+agm-map{
+    height: 300px;
+    width: 300px;
+} 
+.agm-map-container-inner{
+    margin: 0 auto;
+    width: 100%;
+}
